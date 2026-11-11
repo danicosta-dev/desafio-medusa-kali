@@ -23,12 +23,12 @@ O laboratório utiliza máquinas virtuais configuradas em uma rede Host-only, pe
 ### Kali Linux
 - Função: máquina utilizada para os testes de segurança.
 - Sistema operacional: Kali Linux.
-- Endereço IP: [Preencher após conferência].
+- Endereço IP: 192.168.56.102
 
 ### Metasploitable 2
 - Função: máquina vulnerável utilizada como alvo dos experimentos.
 - Sistema operacional: Linux.
-- Endereço IP: [Preencher após conferência].
+- Endereço IP: 192.168.56.101
 
 ### DVWA
 - Função: aplicação web vulnerável utilizada nos testes de autenticação.
