@@ -32,7 +32,9 @@ O laboratório utiliza máquinas virtuais configuradas em uma rede Host-only, pe
 
 ### DVWA
 - Função: aplicação web vulnerável utilizada nos testes de autenticação.
-- Hospedagem: [Informar onde foi instalada].
+- Hospedagem: Metasploitable 2.
+- Endereço de acesso: http://192.168.56.101/dvwa/
+- Protocolo: HTTP.
 
 ## 5. Isolamento e segurança
 
